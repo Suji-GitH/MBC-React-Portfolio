@@ -45,19 +45,19 @@ Further more animation is added for loading texts, Portfolio projects have doubl
 ###### App Screenshots
 
 Landing Page
-<img src = "./portfolio/src/assets/img/Screenshots/LandingPage.jpg">
+<img src = "./src/assets/img/Screenshots/LandingPage.jpg">
 
 AboutMe
-<img src = "./portfolio/src/assets/img/Screenshots/About.jpg">
+<img src = "./src/assets/img/Screenshots/About.jpg">
 
 Portfolio
-<img src = "./portfolio/src/assets/img/Screenshots/Portfolio.jpg">
+<img src = "./src/assets/img/Screenshots/Portfolio.jpg">
 
 Portfolio Modal
-<img src = "./portfolio/src/assets/img/Screenshots/PortfolioProject.jpg">
+<img src = "./src/assets/img/Screenshots/PortfolioProject.jpg">
 
 Contact
-<img src = "./portfolio/src/assets/img/Screenshots/Contact.jpg">
+<img src = "./src/assets/img/Screenshots/Contact.jpg">
 
 ## Credits
 
