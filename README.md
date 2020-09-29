@@ -5,7 +5,7 @@ Updated Portfolio
 
 ## Application & Repository Link
 
-###### [Application Link]()
+###### [Application Link](https://suji-gith.github.io/MBC-React-Portfolio/)
 
 ###### [Repository Link](https://github.com/Suji-GitH/MBC-Portfolio)
 
@@ -36,11 +36,7 @@ Initial Portfolio was made with only HTML and Bootstrap CSS framework. Portfolio
 
 ###### UI/UX Consideration
 
-The main UI/UX consideration made for updating of the Portfolio is simplifying everything down to give it the minimalist design. 
-
-User is given clearly the 3 options under the name title to explore. Each option will let the user focus on the section at hand and all open on the same landing page and not be redirected like the previous portfolio page. 
-
-Further more animation is added for loading texts, Portfolio projects have double images which changes over hover to not crowd the screen with multiple images, any link items are opened in a new tab so user can still have access to the Portfolio Page. 
+The main UI/UX consideration made for updating of the Portfolio is simplifying everything down to give it the minimalist design.
 
 ###### App Screenshots
 
