@@ -18,7 +18,7 @@ function Header() {
     <>
         <Link  
         tag={Link} 
-        to="/">
+        to="/MBC-React-Portfolio/">
           <img
             src={require('../assets//img/Logo/srLogo.png')} 
             alt="homeLogo" 

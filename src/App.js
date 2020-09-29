@@ -16,7 +16,7 @@ function App() {
       <Header />
         <AnimatePresence exitBeforeEnter>
           <Switch location={location} key={location.pathname}>
-            <Route exact path="/" component={LandingPage} />
+            <Route exact path="/MBC-React-Portfolio/" component={LandingPage} />
             <Route exact path="/AboutMe" component={AboutMe} />
             <Route exact path="/Portfolio" component={Projects} />
             <Route exact path="/Contact" component={Contact} />
