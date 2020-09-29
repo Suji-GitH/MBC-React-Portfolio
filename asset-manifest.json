@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MBC-React-Portfolio/static/css/main.6f85b78b.chunk.css",
+    "main.js": "/MBC-React-Portfolio/static/js/main.d616b0f4.chunk.js",
+    "main.js.map": "/MBC-React-Portfolio/static/js/main.d616b0f4.chunk.js.map",
+    "runtime-main.js": "/MBC-React-Portfolio/static/js/runtime-main.2f9dd482.js",
+    "runtime-main.js.map": "/MBC-React-Portfolio/static/js/runtime-main.2f9dd482.js.map",
+    "static/js/2.d91ec0bc.chunk.js": "/MBC-React-Portfolio/static/js/2.d91ec0bc.chunk.js",
+    "static/js/2.d91ec0bc.chunk.js.map": "/MBC-React-Portfolio/static/js/2.d91ec0bc.chunk.js.map",
+    "index.html": "/MBC-React-Portfolio/index.html",
+    "precache-manifest.d0b9020355d57e451427ddefabc7cd03.js": "/MBC-React-Portfolio/precache-manifest.d0b9020355d57e451427ddefabc7cd03.js",
+    "service-worker.js": "/MBC-React-Portfolio/service-worker.js",
+    "static/css/main.6f85b78b.chunk.css.map": "/MBC-React-Portfolio/static/css/main.6f85b78b.chunk.css.map",
+    "static/js/2.d91ec0bc.chunk.js.LICENSE.txt": "/MBC-React-Portfolio/static/js/2.d91ec0bc.chunk.js.LICENSE.txt",
+    "static/media/ChatApp2.jpg": "/MBC-React-Portfolio/static/media/ChatApp2.470e52e5.jpg",
+    "static/media/ET.jpg": "/MBC-React-Portfolio/static/media/ET.704a45f5.jpg",
+    "static/media/NT.jpg": "/MBC-React-Portfolio/static/media/NT.e523adf6.jpg",
+    "static/media/PFP.jpg": "/MBC-React-Portfolio/static/media/PFP.92c9ea33.jpg",
+    "static/media/PassGen2.jpg": "/MBC-React-Portfolio/static/media/PassGen2.67bef3ff.jpg",
+    "static/media/Resume.pdf": "/MBC-React-Portfolio/static/media/Resume.a0472eb0.pdf",
+    "static/media/WeatherDash.jpg": "/MBC-React-Portfolio/static/media/WeatherDash.93f9350c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f9dd482.js",
+    "static/js/2.d91ec0bc.chunk.js",
+    "static/css/main.6f85b78b.chunk.css",
+    "static/js/main.d616b0f4.chunk.js"
+  ]
+}
