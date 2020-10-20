@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7dead4d7cec6883893ae565a307b077",
+    "revision": "4fec0db4ed703f0cfd8d27c34e8a11a5",
     "url": "/MBC-React-Portfolio/index.html"
   },
   {
-    "revision": "be3f83562af580fcca6b",
+    "revision": "fbe52a49e18b60c68733",
     "url": "/MBC-React-Portfolio/static/css/main.6f85b78b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MBC-React-Portfolio/static/js/2.d91ec0bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be3f83562af580fcca6b",
-    "url": "/MBC-React-Portfolio/static/js/main.85e73a30.chunk.js"
+    "revision": "fbe52a49e18b60c68733",
+    "url": "/MBC-React-Portfolio/static/js/main.aa9288fe.chunk.js"
   },
   {
     "revision": "880c2abd1c409a96f433",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MBC-React-Portfolio/static/media/Resume.a0472eb0.pdf"
   },
   {
-    "revision": "93f9350c2597f4017a6afaac07244b4a",
-    "url": "/MBC-React-Portfolio/static/media/WeatherDash.93f9350c.jpg"
+    "revision": "f826662fe42584a7cd0f7d9fdb463452",
+    "url": "/MBC-React-Portfolio/static/media/Trace.f826662f.jpg"
   }
 ]);
