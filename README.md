@@ -1,8 +1,5 @@
 # MBC-React-Portfolio
 
-# MBC-Portfolio-v2.0
-Updated Portfolio
-
 ## Application & Repository Link
 
 ###### [Application Link](https://suji-gith.github.io/MBC-React-Portfolio/)
