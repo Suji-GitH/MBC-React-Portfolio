@@ -7,27 +7,28 @@
 ###### [Repository Link](https://github.com/Suji-GitH/MBC-Portfolio)
 
 ## Content
+
 - [Overview](#Overview)
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [UI/UX & Application Screens](#UI/UX-Application-Screens)
-    - [UI/UX Consideration](#UI/UX-Consideration)
-    - [App Screenshots](#App-Screenshots)
+  - [UI/UX Consideration](#UI/UX-Consideration)
+  - [App Screenshots](#App-Screenshots)
 - [Credits](#Credits)
 - [Testing](#Testing)
 
 ## Overview
 
-Initial Portfolio was made with only HTML and Bootstrap CSS framework. Portfolio is completely updated with React framework. 
+Initial Portfolio was made with only HTML and Bootstrap CSS framework. Portfolio is completely updated with React framework.
 
 ## Acceptance Criteria
 
-* Updated portfolio featuring project 1 and two exemplary homework assignments. 
+- Updated portfolio featuring project 1 and two exemplary homework assignments.
 
-* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
+- Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.
 
-* Updated resume
+- Updated resume
 
-* Updated LinkedIn profile
+- Updated LinkedIn profile
 
 ## UI/UX Application-Screens
 
@@ -58,17 +59,16 @@ Contact
 - MaterialUI
 - Node.js
 - Framer-motion
-- React-router-dom
 
 ## Testing
 
-As an System, when the user lands on My Portfolio page, they are presented with title(Sujith), header, footer, and logo. 
+As an System, when the user lands on My Portfolio page, they are presented with title(Sujith), header, footer, and logo.
 
-As a User, when I click on "AboutMe" user is shown with bio about me. 
+As a User, when I click on "AboutMe" user is shown with bio about me.
 
-As a User, when I click on "Portfolio", I am presented with six Portfolio Projects. 
+As a User, when I click on "Portfolio", I am presented with six Portfolio Projects.
 
-As a User, when I click on one of the Portfolio project, modal is opened with application screenshot, project description, buttons to repository and application link. 
+As a User, when I click on one of the Portfolio project, modal is opened with application screenshot, project description, buttons to repository and application link.
 
 As a User, when I click on Repository or Application link button, I am redirected in a new tab to the correct link directory.
 
