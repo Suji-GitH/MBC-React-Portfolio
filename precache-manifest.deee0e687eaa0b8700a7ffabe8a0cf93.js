@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fec0db4ed703f0cfd8d27c34e8a11a5",
+    "revision": "1ccbf28487ef604de171e50a394951ff",
     "url": "/MBC-React-Portfolio/index.html"
   },
   {
-    "revision": "fbe52a49e18b60c68733",
+    "revision": "205b825357e8dcb4b0a5",
     "url": "/MBC-React-Portfolio/static/css/main.6f85b78b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MBC-React-Portfolio/static/js/2.d91ec0bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fbe52a49e18b60c68733",
-    "url": "/MBC-React-Portfolio/static/js/main.aa9288fe.chunk.js"
+    "revision": "205b825357e8dcb4b0a5",
+    "url": "/MBC-React-Portfolio/static/js/main.c77c6e14.chunk.js"
   },
   {
     "revision": "880c2abd1c409a96f433",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MBC-React-Portfolio/static/media/PassGen2.67bef3ff.jpg"
   },
   {
-    "revision": "a0472eb08e628301ad0356c0afc98355",
-    "url": "/MBC-React-Portfolio/static/media/Resume.a0472eb0.pdf"
+    "revision": "a29656f9cd9afb656a4bdcb820d42ea6",
+    "url": "/MBC-React-Portfolio/static/media/Resume.a29656f9.pdf"
   },
   {
     "revision": "f826662fe42584a7cd0f7d9fdb463452",
